@@ -1,0 +1,1177 @@
+﻿Log file open, 07/24/18 11:14:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VSPerf140.dll' (GetLastError=126)
+LogWindows: File 'VSPerf140.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: TestMultiSteam
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.582299
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MeshEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleVision
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapEmulator
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.676s to configure plugins.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2h
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.20-CL-4212847
+LogInit: Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Compatible Engine Version: 4.20.0-4212847+++UE4+Release-4.20
+LogInit: Net CL: 4212847
+LogInit: OS: Windows 10 (), CPU: Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz, GPU: NVIDIA GeForce GTX 1060 3GB
+LogInit: Compiled (64-bit): Jul 14 2018 09:51:14
+LogInit: Compiled with Visual C++: 19.13.26129.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.20
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.20/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 20
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 24
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 34
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 26
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 9
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 12
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.24-09.14.54:863][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.24-09.14.54:863][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.24-09.14.54:944][  0]LogHAL: Display: Platform has ~ 8 GB [8489099264 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2018.07.24-09.14.54:944][  0]LogInit: Setting Device Profile CVar: [[r.Vulkan.UseRealUBs:1]]
+[2018.07.24-09.14.54:944][  0]LogInit: Going up to parent DeviceProfile []
+[2018.07.24-09.14.55:024][  0]LogInit: Computer: DESKTOP-LGBEB9K
+[2018.07.24-09.14.55:024][  0]LogInit: User: dwira
+[2018.07.24-09.14.55:024][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.24-09.14.55:024][  0]LogInit: High frequency timer resolution =3.117792 MHz
+[2018.07.24-09.14.55:024][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.07.24-09.14.55:024][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.24-09.14.55:024][  0]LogMemory: Process Physical Memory: 98.96 MB used, 98.96 MB peak
+[2018.07.24-09.14.55:024][  0]LogMemory: Process Virtual Memory: 82.79 MB used, 82.79 MB peak
+[2018.07.24-09.14.55:024][  0]LogMemory: Physical Memory: 4772.77 MB used,  3323.07 MB free, 8095.84 MB total
+[2018.07.24-09.14.55:025][  0]LogMemory: Virtual Memory: 4603.40 MB used,  3323.07 MB free, 134217728.00 MB total
+[2018.07.24-09.14.56:350][  0]LogInit: Using OS detected language (fr-FR).
+[2018.07.24-09.14.56:350][  0]LogInit: Using OS detected locale (fr-FR).
+[2018.07.24-09.14.56:435][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2018.07.24-09.14.56:578][  0]LogStreaming: Display: Took  0.228s to InitEngineTextLocalization.
+[2018.07.24-09.14.56:578][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.24-09.14.57:451][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.24-09.14.57:451][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.24-09.15.08:779][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.24-09.15.08:780][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.24-09.15.09:287][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060 3GB' (Feature Level 11_0)
+[2018.07.24-09.15.09:287][  0]LogD3D11RHI:       2988/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.07.24-09.15.10:263][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.07.24-09.15.10:263][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.07.24-09.15.10:314][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.24-09.15.10:314][  0]LogD3D11RHI:       0/0/4047 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.24-09.15.10:314][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.24-09.15.10:320][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.24-09.15.10:320][  0]LogD3D11RHI:     GPU DeviceId: 0x1c02 (for the marketing name, search the web for "GPU Device Id")
+[2018.07.24-09.15.10:320][  0]LogWindows: EnumDisplayDevices:
+[2018.07.24-09.15.10:320][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060 3GB' (P:1 D:1)
+[2018.07.24-09.15.10:320][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.07.24-09.15.10:321][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.07.24-09.15.10:321][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060 3GB' (P:0 D:0)
+[2018.07.24-09.15.10:321][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.07.24-09.15.10:321][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.07.24-09.15.10:322][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.07.24-09.15.10:322][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2018.07.24-09.15.10:322][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060 3GB
+[2018.07.24-09.15.10:322][  0]LogD3D11RHI:   Driver Version: 397.93 (internal:24.21.13.9793, unified:397.93)
+[2018.07.24-09.15.10:322][  0]LogD3D11RHI:      Driver Date: 5-22-2018
+[2018.07.24-09.15.10:322][  0]LogRHI: Texture pool is 2091 MB (70% of 2988 MB)
+[2018.07.24-09.15.10:379][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.24-09.15.10:397][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.07.24-09.15.10:445][  0]LogShaderCompilers: Guid format shader working directory is -33 characters bigger than the processId version (../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Intermediate/Shaders/WorkingDirectory/8404/).
+[2018.07.24-09.15.10:445][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dwira/AppData/Local/Temp/UnrealShaderWorkingDir/308339164E8ED4939F9B098CFB942878/'.
+[2018.07.24-09.15.14:875][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.24-09.15.14:993][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.24-09.15.15:076][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.24-09.15.15:159][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.24-09.15.15:245][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.24-09.15.15:305][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.24-09.15.15:562][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.24-09.15.15:618][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.24-09.15.15:699][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.24-09.15.15:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-09.15.15:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-09.15.15:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-09.15.15:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-09.15.15:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-09.15.15:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-09.15.15:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-09.15.15:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-09.15.15:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-09.15.15:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-09.15.15:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-09.15.15:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-09.15.15:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-09.15.15:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-09.15.15:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-09.15.15:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-09.15.15:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-09.15.15:870][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.24-09.15.15:922][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.24-09.15.16:295][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.24-09.15.16:295][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.24-09.15.16:530][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.24-09.15.16:530][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.24-09.15.16:651][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.24-09.15.16:693][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.24-09.15.16:811][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.24-09.15.16:913][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.24-09.15.16:948][  0]LogTemp: Display: Loaded TP LuminTargetPlatform
+[2018.07.24-09.15.16:948][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.24-09.15.19:171][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.24-09.15.19:171][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.24-09.15.19:171][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.24-09.15.26:453][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.24-09.15.30:797][  0]LogDerivedDataCache: Loaded boot cache 4.34s 87MB C:/Users/dwira/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.07.24-09.15.30:798][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dwira/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc
+[2018.07.24-09.15.30:798][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.24-09.15.30:798][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.24-09.15.30:798][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.24-09.15.30:798][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.24-09.15.30:974][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.24-09.15.30:988][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dwira/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.24-09.15.30:988][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.24-09.15.30:988][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.24-09.15.31:011][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.24-09.15.31:013][  0]LogSlate: Using FreeType 2.6.0
+[2018.07.24-09.15.31:184][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.24-09.15.36:282][  0]LogAssetRegistry: FAssetRegistry took 0.0273 seconds to start up
+[2018.07.24-09.15.37:130][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.24-09.15.38:882][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.24-09.15.39:148][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.24-09.15.39:148][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2018.07.24-09.15.39:148][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.24-09.15.39:148][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.24-09.15.39:214][  0]LogNetVersion: TestMultiSteam 1.0.0, NetCL: 4212847, EngineNetVer: 5, GameNetVer: 0 (Checksum: 1156133407)
+[2018.07.24-09.15.41:980][  0]LogPackageLocalizationCache: Processed 11 localized package path(s) for 2 prioritized culture(s) in 0.719601 seconds
+[2018.07.24-09.15.41:989][  0]LogUObjectArray: 38425 objects as part of root set at end of initial load.
+[2018.07.24-09.15.41:989][  0]LogUObjectAllocator: 6690872 out of 0 bytes used by permanent object pool.
+[2018.07.24-09.15.41:989][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.24-09.17.28:029][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.24-09.17.28:164][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.24-09.17.31:058][  0]SourceControl: Source control is disabled
+[2018.07.24-09.17.31:059][  0]SourceControl: Source control is disabled
+[2018.07.24-09.17.31:288][  0]SourceControl: Source control is disabled
+[2018.07.24-09.17.31:416][  0]SourceControl: Source control is disabled
+[2018.07.24-09.17.37:338][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.24-09.17.38:398][  0]LogOcInput: OculusInput pre-init called
+[2018.07.24-09.17.39:313][  0]LogEngine: Initializing Engine...
+[2018.07.24-09.17.39:315][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.24-09.17.39:317][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.07.24-09.17.39:317][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.24-09.17.39:317][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.07.24-09.17.39:317][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.24-09.17.39:681][  0]LogInit: Initializing FReadOnlyCVARCache
+[2018.07.24-09.17.40:121][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.24-09.17.40:145][  0]LogInit: XAudio2 using 'Speakers / Headphones (3- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2018.07.24-09.17.40:186][  0]LogInit: FAudioDevice initialized.
+[2018.07.24-09.17.40:186][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2018.07.24-09.17.40:567][  0]LogDerivedDataCache: Saved boot cache 0.38s 87MB C:/Users/dwira/AppData/Local/UnrealEngine/4.20/DerivedDataCache/Boot.ddc.
+[2018.07.24-09.17.40:577][  0]LogInit: Texture streaming: Enabled
+[2018.07.24-09.17.41:043][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.24-09.17.41:352][  0]LogInit: Transaction tracking system initialized
+[2018.07.24-09.17.42:752][  0]BlueprintLog: New page: Editor Load
+[2018.07.24-09.17.45:926][  0]LocalizationService: Localization service is disabled
+[2018.07.24-09.17.51:939][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/' took 0.01s
+[2018.07.24-09.17.51:939][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.24-09.17.51:939][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.24-09.17.52:023][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.24-09.17.52:023][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI prefixes -  0.000 s
+[2018.07.24-09.17.52:023][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.24-09.17.52:023][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: ImportINI -  0.000 s
+[2018.07.24-09.17.52:023][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.24-09.17.57:148][  0]SourceControl: Source control is disabled
+[2018.07.24-09.17.57:148][  0]Cmd: MAP LOAD FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.24-09.17.57:148][  0]LightingResults: New page: Lighting Build
+[2018.07.24-09.17.57:377][  0]MapCheck: New page: Map Check
+[2018.07.24-09.17.57:377][  0]LightingResults: New page: Lighting Build
+[2018.07.24-09.18.04:167][  0]LogLinker: Warning: Can't find file '/Game/007-Skybox/SKybox/SkyboxPurpleNebuleuse_Mat'
+[2018.07.24-09.18.04:167][  0]LogLinker: Warning: Can't find file for asset '/Game/007-Skybox/SKybox/SkyboxPurpleNebuleuse_Mat' while loading ../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset.
+[2018.07.24-09.18.04:167][  0]LoadErrors: Error: /Engine/EngineSky/BP_Sky_Sphere : Can't find file for asset. /Game/007-Skybox/SKybox/SkyboxPurpleNebuleuse_Mat
+[2018.07.24-09.18.04:275][  0]LogLinker: Warning: Can't find file '/Game/007-Skybox/SKybox/SkyboxPurpleNebuleuse_Mat'
+[2018.07.24-09.18.04:275][  0]LogLinker: Warning: Can't find file for asset '/Game/007-Skybox/SKybox/SkyboxPurpleNebuleuse_Mat' while loading ../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset.
+[2018.07.24-09.18.04:275][  0]LoadErrors: Error: /Engine/EngineSky/BP_Sky_Sphere : Can't find file for asset. /Game/007-Skybox/SKybox/SkyboxPurpleNebuleuse_Mat
+[2018.07.24-09.18.04:278][  0]LogLinker: Warning: Can't find file '/Game/007-Skybox/SKybox/SkyboxPurpleNebuleuse_Mat'
+[2018.07.24-09.18.04:278][  0]LogLinker: Warning: Can't find file for asset '/Game/007-Skybox/SKybox/SkyboxPurpleNebuleuse_Mat' while loading ../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.07.24-09.18.04:278][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/007-Skybox/SKybox/SkyboxPurpleNebuleuse_Mat
+[2018.07.24-09.18.04:278][  0]LogLinker: Warning: Can't find file '/Game/007-Skybox/SKybox/SkyboxPurpleNebuleuse_Mat'
+[2018.07.24-09.18.04:278][  0]LogLinker: Warning: Can't find file for asset '/Game/007-Skybox/SKybox/SkyboxPurpleNebuleuse_Mat' while loading ../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.07.24-09.18.04:278][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/007-Skybox/SKybox/SkyboxPurpleNebuleuse_Mat
+[2018.07.24-09.18.04:284][  0]LogLinker: Warning: Can't find file '/Game/007-Skybox/SKybox/SkyboxPurpleNebuleuse_Mat'
+[2018.07.24-09.18.04:284][  0]LoadErrors: Failed to load /Game/007-Skybox/SKybox/SkyboxPurpleNebuleuse_Mat.SkyboxPurpleNebuleuse_Mat Referenced by K2Node_CallFunction_40283
+[2018.07.24-09.18.04:284][  0]LogLinker: Warning: Can't find file for asset '/Game/007-Skybox/SKybox/SkyboxPurpleNebuleuse_Mat' while loading ../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap.
+[2018.07.24-09.18.04:284][  0]LoadErrors: Failed to load /Game/007-Skybox/SKybox/SkyboxPurpleNebuleuse_Mat.SkyboxPurpleNebuleuse_Mat Referenced by K2Node_CallFunction_40283
+[2018.07.24-09.18.04:284][  0]LoadErrors: Error: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap : Can't find file for asset. /Game/007-Skybox/SKybox/SkyboxPurpleNebuleuse_Mat
+[2018.07.24-09.18.11:408][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.07.24-09.18.13:197][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.24-09.18.13:296][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.24-09.18.13:412][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 115,849ms to complete.
+[2018.07.24-09.18.13:412][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 16.266
+[2018.07.24-09.18.15:354][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.24-09.18.15:383][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.24-09.18.15:391][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.24-09.18.15:399][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.24-09.18.21:347][  0]LogCollectionManager: Loaded 0 collections in 0.002844 seconds
+[2018.07.24-09.18.23:209][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Collections/' took 0.01s
+[2018.07.24-09.18.23:209][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Developers/dwira/Collections/' took 0.01s
+[2018.07.24-09.18.23:209][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Collections/' took 0.01s
+[2018.07.24-09.18.23:209][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.07.24-09.18.23:467][  0]LogContentBrowser: Native class hierarchy populated in 0.1334 seconds. Added 2572 classes and 603 folders.
+[2018.07.24-09.18.24:220][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.24-09.18.28:538][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2018.07.24-09.18.29:332][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.07.24-09.18.31:530][  0]LogSlate: Took 0.016790 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.24-09.18.32:104][  0]LogSlate: Took 0.029551 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.24-09.18.35:557][  0]LogRenderer: Reallocating scene render targets to support 984x576 Format 9 NumSamples 1 (Frame:1).
+[2018.07.24-09.18.41:762][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.07.24-09.18.41:762][  0]LogLoad: (Engine Initialization) Total time: 285.73 seconds
+[2018.07.24-09.18.41:762][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.24-09.18.45:002][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.07.24-09.18.45:071][  0]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.18.47:398][  1]LogRenderer: Reallocating scene render targets to support 984x592 Format 9 NumSamples 1 (Frame:3).
+[2018.07.24-09.18.49:744][  4]LogAssetRegistry: Asset discovery search completed in 193.4851 seconds
+[2018.07.24-09.18.49:772][  4]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.24-09.18.49:772][  4]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000065 seconds (updated 0 objects)
+[2018.07.24-09.18.51:407][ 45]LogSlate: Window 'Message Log' being destroyed
+[2018.07.24-09.18.51:800][ 45]LogSlate: Window 'Message Log' being destroyed
+[2018.07.24-09.18.52:848][ 51]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (RightArm_StaticMesh)
+[2018.07.24-09.18.56:643][ 51]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.18.56:730][ 51]LogSlate: Took 0.024850 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.24-09.19.03:307][152]LogSlate: Took 0.042871 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.24-09.19.11:961][810]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.24-09.19.12:066][810]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.24-09.19.12:138][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.19.12:860][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.19.13:024][810]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.19.13:698][832]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-09.19.30:382][335]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/CubeMaterial4DA92C0A4FEF6949D4D05C87698F35C3.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPerson/Geometry/Meshes/CubeMaterial.uasset'
+[2018.07.24-09.19.30:592][335]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/1M_CubeA36AEE6D46364E38F39746A814FC5C44.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPerson/Geometry/Meshes/1M_Cube.uasset'
+[2018.07.24-09.19.30:605][335]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Geometry/Meshes/1M_Cube.uasset" SILENT=true
+[2018.07.24-09.19.30:626][335]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/1M_CubeBABC0F3B456E37B18B93C4BF6FE8F0D5.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Geometry/Meshes/1M_Cube.uasset'
+[2018.07.24-09.19.30:690][335]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/1M_Cube_Chamfer475BE2A642664F50FC488BA21CD855C3.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPerson/Geometry/Meshes/1M_Cube_Chamfer.uasset'
+[2018.07.24-09.19.30:741][335]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/1M_Cube_Chamfer4DD81236416ACD5818DE76B6B962061B.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset'
+[2018.07.24-09.19.30:782][335]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/TemplateFloor79FA83BC4AB7BD6A014D0FB062BA62C9.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPerson/Geometry/Meshes/TemplateFloor.uasset'
+[2018.07.24-09.19.30:895][335]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/TemplateFloorC0C412E9487192672DEC7CBDA686CB8E.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Geometry/Meshes/TemplateFloor.uasset'
+[2018.07.24-09.19.40:015][720]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/ThirdPersonExampleMap3AC8F15A485D2CFB3BA6878F18E3CD2E.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.07.24-09.19.40:217][720]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 4.388
+[2018.07.24-09.19.51:531][675]LogSlate: Window 'Delete Assets' being destroyed
+[2018.07.24-09.20.12:723][ 38]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/CubeMaterialC9E75C674BC947D59442C5B02913D3F7.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Assets/Geometry/Meshes/CubeMaterial.uasset'
+[2018.07.24-09.20.12:762][ 38]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/1M_CubeF094B8534D220F7E0B00ED86FC2DF1A1.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Assets/Geometry/Meshes/1M_Cube.uasset'
+[2018.07.24-09.20.12:782][ 38]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/1M_Cube55AB41C648617EA6C54088B485D97D00.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPerson/Geometry/Meshes/1M_Cube.uasset'
+[2018.07.24-09.20.12:843][ 38]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/1M_Cube_Chamfer38F9D6B840BBF45037C74BABEBCB84E2.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Assets/Geometry/Meshes/1M_Cube_Chamfer.uasset'
+[2018.07.24-09.20.12:906][ 38]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/1M_Cube_ChamferCC2800154F6088ED3E3B52A70D671732.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPerson/Geometry/Meshes/1M_Cube_Chamfer.uasset'
+[2018.07.24-09.20.12:943][ 38]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/TemplateFloorF46EF1B04FAF35778BF5D9957F28AB7B.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Assets/Geometry/Meshes/TemplateFloor.uasset'
+[2018.07.24-09.20.12:963][ 38]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/TemplateFloorB1C8B2E54095EFEED996949B1C7105AC.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPerson/Geometry/Meshes/TemplateFloor.uasset'
+[2018.07.24-09.20.12:986][ 38]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/Meshes/RampMaterial" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Assets/Meshes/RampMaterial.uasset" SILENT=true
+[2018.07.24-09.20.13:060][ 38]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/RampMaterial34073CCD4B566F28F7516F88E8989171.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Assets/Meshes/RampMaterial.uasset'
+[2018.07.24-09.20.13:155][ 38]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Bump_StaticMesh5E340F284EC1CCF870F5D99CEDE077C0.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Assets/Meshes/Bump_StaticMesh.uasset'
+[2018.07.24-09.20.13:216][ 38]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Bump_StaticMeshB6D58C8445764E7D79175FB50E57EB92.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset'
+[2018.07.24-09.20.13:264][ 38]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/LeftArm_StaticMesh7F18952D415CE7C9172B04A28597A28B.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Assets/Meshes/LeftArm_StaticMesh.uasset'
+[2018.07.24-09.20.13:288][ 38]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/LeftArm_StaticMeshFCF33B464F1863471ACCC5A1FB868968.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset'
+[2018.07.24-09.20.13:328][ 38]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Linear_Stair_StaticMesh70DDB95640C32692368601838B61A43D.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Assets/Meshes/Linear_Stair_StaticMesh.uasset'
+[2018.07.24-09.20.13:352][ 38]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Linear_Stair_StaticMesh6357D0894573A5D7A07BDC865595E19E.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset'
+[2018.07.24-09.20.13:392][ 38]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Ramp_StaticMesh78F796BE4BE3D2A37257ED82898D4175.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Assets/Meshes/Ramp_StaticMesh.uasset'
+[2018.07.24-09.20.13:413][ 38]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Ramp_StaticMeshD29BAE7847F34F07F7B969A261783B60.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset'
+[2018.07.24-09.20.13:451][ 38]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/RightArm_StaticMesh9B19478248596B922CBCDEA734C1127A.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Assets/Meshes/RightArm_StaticMesh.uasset'
+[2018.07.24-09.20.13:473][ 38]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/RightArm_StaticMesh2E588AE84D6DC50B48EBCEBC23C2EADA.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset'
+[2018.07.24-09.20.18:048][506]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/ThirdPersonExampleMapCB2FB34248C9D59AE6705AA1120477C0.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.07.24-09.20.18:067][506]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.287
+[2018.07.24-09.20.44:829][362]LogAssetEditorManager: Opening Asset editor for StaticMesh /Game/Assets/Meshes/LeftArm_StaticMesh.LeftArm_StaticMesh
+[2018.07.24-09.20.48:741][362]LogRenderer: Reallocating scene render targets to support 1012x612 Format 9 NumSamples 1 (Frame:1).
+[2018.07.24-09.20.48:741][362]LogSlate: Took 0.018163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.24-09.20.50:341][457]LogSlate: Window 'LeftArm_StaticMesh' being destroyed
+[2018.07.24-09.21.27:390][972]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.24-09.21.37:721][ 83]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.24-09.24.06:787][983]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.07.24-09.24.54:074][101]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.07.24-09.25.17:827][784]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/ThirdPersonExampleMapE55CFF9F4AFED0913251C081F4F97D06.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.07.24-09.25.18:368][784]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/ThirdPersonExampleMap_BuiltData86F9E15841BAC28CDC462384FD013610.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.07.24-09.25.21:246][986]LogSlate: Window 'Save Content' being destroyed
+[2018.07.24-09.25.21:275][986]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstanceFDCB83FC4AB4C21A78ED009D02640F18.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.25.21:294][986]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/PlayerInfo43E2DA8C4D10B1F323C0F4B886172328.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/PlayerInfo.uasset'
+[2018.07.24-09.25.21:327][986]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/PlayerSave1A26B9BD452472BD98AE43872250D93A.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/PlayerSave.uasset'
+[2018.07.24-09.26.16:346][166]LogMetaData: Removing '/Game/001Blueprint/Character/Player_BP.SKEL_Player_BP_C' ref from Metadata '/Game/001Blueprint/Character/ThirdPersonCharacter.PackageMetaData'
+[2018.07.24-09.26.16:346][166]LogMetaData: Removing '/Game/001Blueprint/Character/Player_BP.Player_BP_C' ref from Metadata '/Game/001Blueprint/Character/ThirdPersonCharacter.PackageMetaData'
+[2018.07.24-09.26.16:600][166]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Player_BP3E10E5E14F4AD8389F13589244E2AA69.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Character/Player_BP.uasset'
+[2018.07.24-09.28.03:441][234]LogMetaData: Removing '/Game/001Blueprint/Character/Player_Bleu.Player_Bleu:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/001Blueprint/Character/Player_BP_Child.PackageMetaData'
+[2018.07.24-09.28.03:441][234]LogMetaData: Removing '/Game/001Blueprint/Character/Player_Bleu.SKEL_Player_Bleu_C' ref from Metadata '/Game/001Blueprint/Character/Player_BP_Child.PackageMetaData'
+[2018.07.24-09.28.03:441][234]LogMetaData: Removing '/Game/001Blueprint/Character/Player_Bleu.Player_Bleu_C' ref from Metadata '/Game/001Blueprint/Character/Player_BP_Child.PackageMetaData'
+[2018.07.24-09.28.03:441][234]LogMetaData: Removing '/Game/001Blueprint/Character/Player_Bleu.Player_Bleu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/001Blueprint/Character/Player_BP_Child.PackageMetaData'
+[2018.07.24-09.28.03:441][234]LogMetaData: Removing '/Game/001Blueprint/Character/Player_Bleu.Player_Bleu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/001Blueprint/Character/Player_BP_Child.PackageMetaData'
+[2018.07.24-09.28.03:441][234]LogMetaData: Removing '/Game/001Blueprint/Character/Player_Bleu.Player_Bleu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/001Blueprint/Character/Player_BP_Child.PackageMetaData'
+[2018.07.24-09.28.03:498][234]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Player_BleuB6FB48E348C7E74C92F2F18F216C8AB7.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Character/Player_Bleu.uasset'
+[2018.07.24-09.28.04:803][353]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/001Blueprint/Character/Player_Bleu.Player_Bleu
+[2018.07.24-09.28.07:877][353]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 116 classes and 0 folders.
+[2018.07.24-09.28.19:485][500]LogSlate: Window 'Player_Bleu' being destroyed
+[2018.07.24-09.29.25:151][358]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.07.24-09.29.33:805][148]LogSlate: Window 'Save Content' being destroyed
+[2018.07.24-09.29.33:858][148]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Player_Rouge0C0E2A3E4CBFA69E17C6E2A427651524.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Character/Player_Rouge.uasset'
+[2018.07.24-09.29.33:880][148]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameModeE014DEF249AEB53DF071658FB5D81CA0.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/GamePlay/MonGameMode.uasset'
+[2018.07.24-09.29.34:838][228]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/ThirdPersonExampleMapA88C28AE46087A5950C8798931AC281B.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.07.24-09.29.34:998][228]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/ThirdPersonExampleMap_BuiltDataA63D10AE41FEA54C585331918A2E97D8.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.07.24-09.29.48:676][407]LogSlate: Window 'Pick Parent Class' being destroyed
+[2018.07.24-09.30.11:175][777]LogMetaData: Removing '/Game/001Blueprint/Lobby/LobbyGameMode.SKEL_LobbyGameMode_C' ref from Metadata '/Game/001Blueprint/Lobby/MonGameMode.PackageMetaData'
+[2018.07.24-09.30.11:175][777]LogMetaData: Removing '/Game/001Blueprint/Lobby/LobbyGameMode.LobbyGameMode_C' ref from Metadata '/Game/001Blueprint/Lobby/MonGameMode.PackageMetaData'
+[2018.07.24-09.30.11:208][777]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/LobbyGameMode10F708D5445A021CB11F4585B8FA331A.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Lobby/LobbyGameMode.uasset'
+[2018.07.24-09.30.17:398][484]LogMetaData: Removing '/Game/001Blueprint/Lobby/LobbyPlayerController.SKEL_LobbyPlayerController_C' ref from Metadata '/Game/001Blueprint/Lobby/MonPlayerController.PackageMetaData'
+[2018.07.24-09.30.17:398][484]LogMetaData: Removing '/Game/001Blueprint/Lobby/LobbyPlayerController.LobbyPlayerController_C' ref from Metadata '/Game/001Blueprint/Lobby/MonPlayerController.PackageMetaData'
+[2018.07.24-09.30.17:425][484]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/LobbyPlayerController9B7228DD458BDD816067F3B03B1199B8.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Lobby/LobbyPlayerController.uasset'
+[2018.07.24-09.31.14:159][591]LogMetaData: Removing '/Game/ThirdPersonBP/Maps/Lobby.Lobby_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2018.07.24-09.31.14:159][591]LogMetaData: Removing '/Game/ThirdPersonBP/Maps/Lobby.SKEL_Lobby_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2018.07.24-09.31.14:309][591]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Lobby_BuiltDataCE1042DD4753E5B5B75B948B64500E5E.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPersonBP/Maps/Lobby_BuiltData.uasset'
+[2018.07.24-09.31.17:902][591]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Lobby6A04F1834B4521ABC4CE80BBB6485320.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/ThirdPersonBP/Maps/Lobby.umap'
+[2018.07.24-09.31.17:923][591]LogFileHelpers: Saving map 'Lobby' took 3.604
+[2018.07.24-09.31.32:022][215]LogMetaData: Removing '/Game/Maps/Lobby.Lobby_C' ref from Metadata '/Game/ThirdPersonBP/Maps/Lobby.PackageMetaData'
+[2018.07.24-09.31.32:022][215]LogMetaData: Removing '/Game/Maps/Lobby.SKEL_Lobby_C' ref from Metadata '/Game/ThirdPersonBP/Maps/Lobby.PackageMetaData'
+[2018.07.24-09.31.32:081][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2018.07.24-09.31.32:212][215]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Lobby_BuiltData516E01B54171D70FB68944BA19E2F93B.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Lobby_BuiltData.uasset'
+[2018.07.24-09.31.32:419][215]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.24-09.31.32:619][215]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Lobby04FD071340BF388CEA068290924B9CB5.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Lobby.umap'
+[2018.07.24-09.31.32:650][215]LogFileHelpers: Saving map 'Lobby' took 0.428
+[2018.07.24-09.31.39:398][862]LogAIModule: Creating AISystem for world Arena
+[2018.07.24-09.31.42:901][261]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.07.24-09.31.44:243][401]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-09.31.49:130][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.24-09.31.49:365][945]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Lobby2E4547FE46AB2F32B88FA9BEC9555DFF.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Lobby.umap'
+[2018.07.24-09.31.49:389][945]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2018.07.24-09.31.49:529][945]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Lobby_BuiltData47B687834BC4187FE51A90B4BFF88F62.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Lobby_BuiltData.uasset'
+[2018.07.24-09.32.08:692][853]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.24-09.32.10:079][971]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2018.07.24-09.32.12:179][199]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.32.14:852][477]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.32.15:853][574]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.32.20:371][112]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.32.21:355][228]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.32.22:028][305]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.32.22:543][365]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.32.23:914][527]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart3)
+[2018.07.24-09.32.24:629][609]LogEditorViewport: Clicking on Actor (CTRL LMB): PlayerStart (NetworkPlayerStart2)
+[2018.07.24-09.32.25:444][703]LogEditorViewport: Clicking on Actor (CTRL LMB): PlayerStart (NetworkPlayerStart)
+[2018.07.24-09.32.26:243][793]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.32.26:243][793]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.32.26:244][793]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.32.27:374][927]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.32.27:374][927]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.32.27:374][927]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.32.32:975][583]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart4)
+[2018.07.24-09.32.33:358][625]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.32.34:325][734]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.32.35:717][899]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.32.36:355][972]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-09.32.36:459][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.24-09.32.36:714][983]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Lobby9ACB0A2B4E6211A700A5F8B64FB2C7AD.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Lobby.umap'
+[2018.07.24-09.32.36:737][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Lobby_BuiltData" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Lobby_BuiltData.uasset" SILENT=true
+[2018.07.24-09.32.36:869][983]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Lobby_BuiltData77E72F6941828F5D1848C08657B4BC49.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Lobby_BuiltData.uasset'
+[2018.07.24-09.33.17:431][313]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.33.22:494][906]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.33.24:496][906]LogSlate: Window 'Save Level As' being destroyed
+[2018.07.24-09.33.24:815][906]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.33.25:390][906]LogAIModule: Creating AISystem for world Lobby
+[2018.07.24-09.33.25:402][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lobby" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Lobby.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.24-09.33.25:689][906]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/LobbyB68FBE4A406559A48DDBC795C3BD9DB0.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Lobby.umap'
+[2018.07.24-09.33.25:709][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Lobby_BuiltData" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Lobby_BuiltData.uasset" SILENT=true
+[2018.07.24-09.33.25:837][906]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Lobby_BuiltDataCCE2D1B74AA4E93EB7428F90CAE57917.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Lobby_BuiltData.uasset'
+[2018.07.24-09.33.25:847][906]LogFileHelpers: Saving map 'Lobby' took 1.251
+[2018.07.24-09.33.25:880][906]Cmd: MAP LOAD FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Lobby.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.24-09.33.25:900][906]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.33.25:904][906]LightingResults: New page: Lighting Build
+[2018.07.24-09.33.25:906][906]LoadErrors: New page: Loading map: Lobby.umap
+[2018.07.24-09.33.25:923][906]MapCheck: New page: Map Check
+[2018.07.24-09.33.25:923][906]LightingResults: New page: Lighting Build
+[2018.07.24-09.33.31:985][906]LogSlate: Window 'Message' being destroyed
+[2018.07.24-09.33.32:190][906]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.24-09.33.32:278][906]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.24-09.33.32:415][906]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 137,138ms to complete.
+[2018.07.24-09.33.32:415][906]LogFileHelpers: Loading map 'Lobby' took 6.567
+[2018.07.24-09.33.35:566][266]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.33.36:180][332]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.33.40:466][635]LogSlate: Window 'Save Content' being destroyed
+[2018.07.24-09.33.40:477][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.33.40:498][635]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonPlayerControllerBCBA979D438326B0E0985FA122C875D8.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/GamePlay/MonPlayerController.uasset'
+[2018.07.24-09.33.40:645][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Arena" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.24-09.33.40:855][635]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/ArenaB0644C12480E8EF6D9ACDBA96553AB6C.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Arena.umap'
+[2018.07.24-09.33.40:872][635]LogFileHelpers: Saving map 'Arena' took 0.361
+[2018.07.24-09.33.40:875][635]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Arena_BuiltData" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Arena_BuiltData.uasset" SILENT=true
+[2018.07.24-09.33.41:005][635]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Arena_BuiltData33F2F2864E7F875975B9F8B9C35C8C3C.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Arena_BuiltData.uasset'
+[2018.07.24-09.33.41:015][635]Cmd: MAP LOAD FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Arena.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.24-09.33.41:020][635]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.33.41:023][635]LightingResults: New page: Lighting Build
+[2018.07.24-09.33.41:024][635]LoadErrors: New page: Loading map: Arena.umap
+[2018.07.24-09.33.41:025][635]MapCheck: New page: Map Check
+[2018.07.24-09.33.41:025][635]LightingResults: New page: Lighting Build
+[2018.07.24-09.33.41:162][635]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.24-09.33.41:207][635]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.24-09.33.41:336][635]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 128,508ms to complete.
+[2018.07.24-09.33.41:336][635]LogFileHelpers: Loading map 'Arena' took 0.322
+[2018.07.24-09.33.41:338][635]LogSlate: Window 'Open Level' being destroyed
+[2018.07.24-09.33.42:896][819]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TextRenderActor)
+[2018.07.24-09.33.43:851][926]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-09.33.47:806][389]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2018.07.24-09.33.48:160][427]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2018.07.24-09.33.48:265][427]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.33.49:665][563]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (NetworkPlayerStart)
+[2018.07.24-09.33.50:252][626]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.33.50:692][677]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.33.51:176][731]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.33.51:583][778]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.33.52:161][843]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.33.52:564][889]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.33.53:873][ 43]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.33.54:662][135]LogEditorViewport: Clicking on Actor (CTRL LMB): PlayerStart (NetworkPlayerStart3)
+[2018.07.24-09.33.55:650][249]LogEditorViewport: Clicking on Actor (CTRL LMB): PlayerStart (NetworkPlayerStart2)
+[2018.07.24-09.33.56:602][358]LogEditorViewport: Clicking on Actor (CTRL LMB): PlayerStart (NetworkPlayerStart)
+[2018.07.24-09.33.58:790][610]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.33.58:790][610]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.33.58:790][610]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.33.58:791][610]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.34.00:355][796]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.34.00:356][796]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.34.00:356][796]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.34.00:356][796]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.24-09.34.02:156][  4]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.07.24-09.34.02:886][ 83]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-09.34.02:965][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Arena" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.24-09.34.03:195][ 91]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Arena70AF14BD4F45F4A5281BB9AD1687E487.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Arena.umap'
+[2018.07.24-09.34.03:219][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Arena_BuiltData" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Arena_BuiltData.uasset" SILENT=true
+[2018.07.24-09.34.03:364][ 91]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Arena_BuiltDataEAC28EC24CE861813EB0CEA1CB48A040.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Arena_BuiltData.uasset'
+[2018.07.24-09.34.12:921][256]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.34.29:883][988]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.34.32:169][238]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.34.36:929][238]LogSlate: Window 'New Level' being destroyed
+[2018.07.24-09.34.37:010][238]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.34.38:492][238]LogSlate: Window 'Save Content' being destroyed
+[2018.07.24-09.34.38:501][238]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.34.38:636][238]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Arena" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.24-09.34.38:846][238]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Arena20622CB447F88C4C6BB0088E6A98ED50.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Arena.umap'
+[2018.07.24-09.34.38:865][238]LogFileHelpers: Saving map 'Arena' took 0.358
+[2018.07.24-09.34.38:868][238]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.24-09.34.38:883][238]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.34.38:889][238]LightingResults: New page: Lighting Build
+[2018.07.24-09.34.38:890][238]LoadErrors: New page: Loading map: Template_Default.umap
+[2018.07.24-09.34.38:892][238]MapCheck: New page: Map Check
+[2018.07.24-09.34.38:892][238]LightingResults: New page: Lighting Build
+[2018.07.24-09.34.39:357][238]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.24-09.34.39:434][238]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.24-09.34.39:467][238]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.24-09.34.39:590][238]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 122,451ms to complete.
+[2018.07.24-09.34.39:590][238]LogFileHelpers: Loading map 'Template_Default' took 0.723
+[2018.07.24-09.34.41:829][346]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.34.43:096][497]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.34.47:683][497]LogSlate: Window 'Save Level As' being destroyed
+[2018.07.24-09.34.48:518][596]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.34.49:515][715]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.34.51:222][715]LogSlate: Window 'New Level' being destroyed
+[2018.07.24-09.34.51:225][715]LightingResults: New page: Lighting Build
+[2018.07.24-09.34.51:225][715]MapCheck: New page: Map Check
+[2018.07.24-09.34.51:225][715]LightingResults: New page: Lighting Build
+[2018.07.24-09.34.51:273][715]LogAIModule: Creating AISystem for world Untitled
+[2018.07.24-09.34.51:341][715]LoadErrors: New page: New Map
+[2018.07.24-09.34.54:915][944]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.34.56:665][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.35.00:449][153]LogSlate: Window 'Save Level As' being destroyed
+[2018.07.24-09.35.00:453][153]LogSlate: FSceneViewport::OnFocusLost() reason 3
+[2018.07.24-09.35.00:630][153]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/TravelMapD9B4644C4969438638DE10A0E19DBCF9.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/TravelMap.umap'
+[2018.07.24-09.35.00:651][153]LogFileHelpers: Saving map 'TravelMap' took 0.196
+[2018.07.24-09.35.00:651][153]Cmd: MAP LOAD FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/TravelMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.24-09.35.00:655][153]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.35.00:658][153]LightingResults: New page: Lighting Build
+[2018.07.24-09.35.00:659][153]LoadErrors: New page: Loading map: TravelMap.umap
+[2018.07.24-09.35.00:660][153]MapCheck: New page: Map Check
+[2018.07.24-09.35.00:660][153]LightingResults: New page: Lighting Build
+[2018.07.24-09.35.00:695][153]LogAIModule: Creating AISystem for world TravelMap
+[2018.07.24-09.35.00:783][153]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.24-09.35.00:827][153]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.24-09.35.00:951][153]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 123,262ms to complete.
+[2018.07.24-09.35.00:951][153]LogFileHelpers: Loading map 'TravelMap' took 0.300
+[2018.07.24-09.35.01:844][259]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.35.02:447][328]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.35.02:855][374]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.35.10:924][338]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.24-09.35.21:438][823]LogSlate: Window 'Save Level As' being destroyed
+[2018.07.24-09.35.21:588][823]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.24-09.35.21:631][823]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MainMenu089305B24A4072F824AF8F8745D1404A.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/MainMenu.umap'
+[2018.07.24-09.35.21:644][823]LogFileHelpers: Saving map 'MainMenu' took 0.199
+[2018.07.24-09.35.21:644][823]Cmd: MAP LOAD FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.24-09.35.21:653][823]LightingResults: New page: Lighting Build
+[2018.07.24-09.35.21:655][823]LoadErrors: New page: Loading map: MainMenu.umap
+[2018.07.24-09.35.21:655][823]MapCheck: New page: Map Check
+[2018.07.24-09.35.21:655][823]LightingResults: New page: Lighting Build
+[2018.07.24-09.35.21:772][823]LogEditorServer: Finished looking for orphan Actors (0.001 secs)
+[2018.07.24-09.35.21:817][823]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.24-09.35.21:945][823]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 127,873ms to complete.
+[2018.07.24-09.35.21:945][823]LogFileHelpers: Loading map 'MainMenu' took 0.301
+[2018.07.24-09.36.36:514][274]LogMetaData: Removing '/Game/002UI/AllLevels/LoadingScreen.SKEL_LoadingScreen_C' ref from Metadata '/Game/002UI/AllLevels/GamePlayChat.PackageMetaData'
+[2018.07.24-09.36.36:514][274]LogMetaData: Removing '/Game/002UI/AllLevels/LoadingScreen.LoadingScreen_C' ref from Metadata '/Game/002UI/AllLevels/GamePlayChat.PackageMetaData'
+[2018.07.24-09.36.36:559][274]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/LoadingScreenDD3A21954BA828D1CA0CD694EA5FCA19.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/AllLevels/LoadingScreen.uasset'
+[2018.07.24-09.36.38:813][354]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MainMenuF0508217471E207014EA339D8BBFCC15.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/MainMenu.umap'
+[2018.07.24-09.37.32:529][651]LogMetaData: Removing '/Game/002UI/Lobby/PlayerButton.SKEL_PlayerButton_C' ref from Metadata '/Game/002UI/Lobby/LobbyMenu.PackageMetaData'
+[2018.07.24-09.37.32:529][651]LogMetaData: Removing '/Game/002UI/Lobby/PlayerButton.PlayerButton_C' ref from Metadata '/Game/002UI/Lobby/LobbyMenu.PackageMetaData'
+[2018.07.24-09.37.32:547][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/002UI/Lobby/PlayerButton" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/Lobby/PlayerButton.uasset" SILENT=true
+[2018.07.24-09.37.32:556][651]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/PlayerButton47B2D8B3421981C1468D96BFCD546854.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/Lobby/PlayerButton.uasset'
+[2018.07.24-09.37.37:101][770]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MainMenuDADAC5DE4225E1D08954139148F8F38C.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/MainMenu.umap'
+[2018.07.24-09.37.39:089][908]LogSlate: Window 'Save Content' being destroyed
+[2018.07.24-09.37.39:106][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/002UI/AllLevels/ChatText" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/AllLevels/ChatText.uasset" SILENT=true
+[2018.07.24-09.37.39:117][908]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/ChatText41EFFD444B3579AB1A5122A97EBECA36.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/AllLevels/ChatText.uasset'
+[2018.07.24-09.37.39:129][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/002UI/AllLevels/ChatWindow" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/AllLevels/ChatWindow.uasset" SILENT=true
+[2018.07.24-09.37.39:153][908]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/ChatWindow9299CF674D442B687DEC99B7AF7D5919.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/AllLevels/ChatWindow.uasset'
+[2018.07.24-09.37.39:174][908]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/CharacterSelect0A9024F6415FD1F5E2B063A24FDE0C47.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/Lobby/CharacterSelect.uasset'
+[2018.07.24-09.37.39:218][908]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/ConnectedPlayer647AE6FD4E79B4AF8F3CB6B4BC835C48.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/Lobby/ConnectedPlayer.uasset'
+[2018.07.24-09.37.39:230][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/002UI/Lobby/GameSettings" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/Lobby/GameSettings.uasset" SILENT=true
+[2018.07.24-09.37.39:239][908]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/GameSettings5D6CC235409208C8626A988BAF8E37E1.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/Lobby/GameSettings.uasset'
+[2018.07.24-09.37.52:363][264]LogAssetEditorManager: Opening Asset editor for WidgetBlueprint /Game/002UI/MainMenu/NewWidgetBlueprint.NewWidgetBlueprint
+[2018.07.24-09.37.53:713][264]LogSlate: Took 0.015031 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.24-09.37.54:909][365]LogSlate: Window 'NewWidgetBlueprint*' being destroyed
+[2018.07.24-09.38.00:958][ 48]LogMetaData: Removing '/Game/002UI/MainMenu/ErrorDialog.SKEL_ErrorDialog_C' ref from Metadata '/Game/002UI/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2018.07.24-09.38.00:959][ 48]LogMetaData: Removing '/Game/002UI/MainMenu/ErrorDialog.ErrorDialog_C' ref from Metadata '/Game/002UI/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2018.07.24-09.38.00:959][ 48]LogMetaData: Removing '/Game/002UI/MainMenu/ErrorDialog.ErrorDialog:EventGraph.K2Node_Event_0' ref from Metadata '/Game/002UI/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2018.07.24-09.38.00:959][ 48]LogMetaData: Removing '/Game/002UI/MainMenu/ErrorDialog.ErrorDialog:EventGraph.K2Node_Event_1' ref from Metadata '/Game/002UI/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2018.07.24-09.38.00:959][ 48]LogMetaData: Removing '/Game/002UI/MainMenu/ErrorDialog.ErrorDialog:EventGraph.K2Node_Event_2' ref from Metadata '/Game/002UI/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2018.07.24-09.38.00:974][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/002UI/MainMenu/ErrorDialog" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/MainMenu/ErrorDialog.uasset" SILENT=true
+[2018.07.24-09.38.00:984][ 48]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/ErrorDialogC22234B74073511ADC059295F2F8D7C6.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/MainMenu/ErrorDialog.uasset'
+[2018.07.24-09.38.17:946][713]LogMetaData: Removing '/Game/002UI/MainMenu/HostMenu.SKEL_HostMenu_C' ref from Metadata '/Game/002UI/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2018.07.24-09.38.17:946][713]LogMetaData: Removing '/Game/002UI/MainMenu/HostMenu.HostMenu_C' ref from Metadata '/Game/002UI/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2018.07.24-09.38.17:946][713]LogMetaData: Removing '/Game/002UI/MainMenu/HostMenu.HostMenu:EventGraph.K2Node_Event_0' ref from Metadata '/Game/002UI/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2018.07.24-09.38.17:946][713]LogMetaData: Removing '/Game/002UI/MainMenu/HostMenu.HostMenu:EventGraph.K2Node_Event_1' ref from Metadata '/Game/002UI/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2018.07.24-09.38.17:946][713]LogMetaData: Removing '/Game/002UI/MainMenu/HostMenu.HostMenu:EventGraph.K2Node_Event_2' ref from Metadata '/Game/002UI/MainMenu/NewWidgetBlueprint.PackageMetaData'
+[2018.07.24-09.38.17:963][713]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/002UI/MainMenu/HostMenu" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/MainMenu/HostMenu.uasset" SILENT=true
+[2018.07.24-09.38.17:974][713]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/HostMenu7FA00125472D8265FAB2A2AAA9BF34C3.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/MainMenu/HostMenu.uasset'
+[2018.07.24-09.38.45:709][902]LogSlate: Window 'Save Content' being destroyed
+[2018.07.24-09.38.45:724][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/002UI/MainMenu/MainMenu" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/MainMenu/MainMenu.uasset" SILENT=true
+[2018.07.24-09.38.45:733][902]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MainMenu7ACE2B9C48EE8D36DD09C292567DE26A.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/MainMenu/MainMenu.uasset'
+[2018.07.24-09.38.45:744][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/002UI/MainMenu/OptionsMenu" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/MainMenu/OptionsMenu.uasset" SILENT=true
+[2018.07.24-09.38.45:752][902]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/OptionsMenu45FA32924BF67D6BCCAB5E817B3BD945.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/MainMenu/OptionsMenu.uasset'
+[2018.07.24-09.38.45:763][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/002UI/MainMenu/ServerMenu" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/MainMenu/ServerMenu.uasset" SILENT=true
+[2018.07.24-09.38.45:772][902]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/ServerMenu08A4CB674673298717B9C48A17855AEB.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/002UI/MainMenu/ServerMenu.uasset'
+[2018.07.24-09.38.47:966][  1]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MainMenu58C7F30A4ADBB8A0D9F35282E43B2B02.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/MainMenu.umap'
+[2018.07.24-09.38.57:414][208]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.07.24-09.38.58:997][350]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.TestMultiSteam
+[2018.07.24-09.38.58:997][350]LogTemp: CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.07.24-09.38.58:997][350]LogTemp: Initial Dir: C:\Program Files\Epic Games\UE_4.20
+[2018.07.24-09.38.58:997][350]LogTemp: Env CWD: C:\Program Files\Epic Games\UE_4.20\Engine\Binaries\DotNET\IOS
+[2018.07.24-09.38.59:005][351]LogTemp: BranchPath = DESKTOP-LGBEB9K/C/Program Files/Epic Games/UE_4.20/Engine/Binaries --- GameBranchPath = DESKTOP-LGBEB9K/C/Program Files/Epic Games/UE_4.20/Engine/Binaries
+[2018.07.24-09.38.59:155][369]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\dwira\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.07.24-09.39.26:977][164]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.24-09.39.40:081][ 37]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MainMenuEBC03BFF400CF9DF0F80EE83E5794E82.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/MainMenu.umap'
+[2018.07.24-09.39.43:696][268]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-09.39.43:790][268]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.07.24-09.39.43:791][268]LogPlayLevel: [PlayLevel] Compiling ChatText before play...
+[2018.07.24-09.39.43:795][268]LogPlayLevel: [PlayLevel] Compiling ChatWindow before play...
+[2018.07.24-09.39.43:798][268]LogPlayLevel: [PlayLevel] Compiling CharacterSelect before play...
+[2018.07.24-09.39.43:801][268]LogPlayLevel: [PlayLevel] Compiling ConnectedPlayer before play...
+[2018.07.24-09.39.43:804][268]LogPlayLevel: [PlayLevel] Compiling GameSettings before play...
+[2018.07.24-09.39.43:838][268]LogPlayLevel: PlayLevel: Blueprint regeneration took 48 ms (5 blueprints)
+[2018.07.24-09.39.44:066][268]PIE: New page: PIE session: MainMenu (24 juil. 2018 13:39:44)
+[2018.07.24-09.39.44:067][268]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2018.07.24-09.39.44:076][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008706s)
+[2018.07.24-09.39.44:076][268]LogAIModule: Creating AISystem for world MainMenu
+[2018.07.24-09.39.44:090][268]LogPlayLevel: PIE: World Init took: (0.014189s)
+[2018.07.24-09.39.44:108][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.040448s)
+[2018.07.24-09.39.44:204][268]LogInit: XAudio2 using 'Speakers / Headphones (3- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2018.07.24-09.39.44:261][268]LogInit: FAudioDevice initialized.
+[2018.07.24-09.39.44:370][268]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.24-09.39.44:386][268]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 0) at 2018.07.24-11.39.44
+[2018.07.24-09.39.44:411][268]LogWorld: Bringing up level for play took: 0.025399
+[2018.07.24-09.39.44:644][268]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0006 seconds. Added 10 classes and 0 folders.
+[2018.07.24-09.39.44:745][268]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_MainMenu 0,519
+[2018.07.24-09.39.46:422][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.24-09.39.46:492][417]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.24-09.39.46:583][417]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.24-09.39.46:637][418]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2018.07.24-09.40.34:342][845]Cmd: SELECT NONE
+[2018.07.24-09.40.35:477][945]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-09.40.38:509][307]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/001Blueprint/GamePlay/MonGameMode.MonGameMode
+[2018.07.24-09.40.42:358][504]LogSlate: Window 'MonGameMode' being destroyed
+[2018.07.24-09.40.44:876][795]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/001Blueprint/Allevels/MonGameInstance.MonGameInstance
+[2018.07.24-09.41.05:201][465]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.41.05:857][532]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance003F18004B6512548C8A6FB9EB03E0E4.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.41.13:536][244]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.24-09.41.45:979][215]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.41.46:453][259]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstanceDFD8389F469F71675811C9BEE35BA6E7.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.41.58:486][254]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.41.59:140][320]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstanceA529B22B46D84AE65631B4BDDA741D28.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.42.00:389][462]LogSlate: Window 'MonGameInstance' being destroyed
+[2018.07.24-09.42.36:937][690]LogSlate: Took 0.021584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2018.07.24-09.43.47:127][495]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.43.47:619][545]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstanceF3FAC2BB4599511A17DDADAE5D0EBBF3.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.44.12:394][556]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.44.12:907][608]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstanceD65D6D9F4DB5ED71C1D945B9C0008FE4.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.44.49:313][647]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.44.50:038][724]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance8EE8227C449D9F4068C26088A23A6D0D.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.45.28:993][376]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.24-09.45.38:921][561]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.45.39:694][644]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstanceEB68405C40005F64EDD198881256C221.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.46.15:922][382]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.46.16:370][424]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance091DDBAA40DD9E6757E6A3BBD5642E53.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.46.27:090][190]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.24-09.47.53:585][298]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.47.54:028][337]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance03ADEE6A437FFE32BD7E8D9F9207FD82.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.48.11:929][201]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.24-09.48.19:535][113]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.48.20:011][157]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstanceCA84204B4FD32DF933DEA080088C5278.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.48.42:837][670]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.24-09.49.32:218][175]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.49.32:744][223]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance931DB0464D10039C4F05388A19A85D56.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.49.57:653][807]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.24-09.50.06:988][911]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.24-09.51.00:781][409]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.51.39:694][116]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.51.40:387][184]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance2B9F60944C8E7A7F081B70A82307C8AA.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.52.02:611][897]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.24-09.53.40:101][295]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.53.40:572][332]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance5B09EBFC4FD6012712DC04B142A9C3A6.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.54.41:555][744]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.54.42:078][787]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance53D3EA8543A4AC0DB31428870C08B548.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.55.14:247][790]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstanceAD1340D4463E17A4CEA9929AF017A59F.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.55.14:747][849]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.55.46:830][814]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.55.47:405][863]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance54533C2E41F342B0B8F58C8BB490B2A3.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.56.06:502][397]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.56.06:995][433]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstanceAC0CE0EC4DCED0C233AFA592D13923F2.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.56.25:254][939]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.56.25:796][984]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstanceF4367FDF4ADD79AAEE6869BBBDA9545E.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.56.58:861][213]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.56.59:560][277]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance9417E9F94667FBE950B5ECA162F13D1C.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.57.29:687][828]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMenu' took 0.035
+[2018.07.24-09.57.29:692][828]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/001Blueprint/Allevels/MonGameInstance] ([1] browsable assets)...
+[2018.07.24-09.57.29:692][828]OBJ SavePackage: Finished generating thumbnails for package [/Game/001Blueprint/Allevels/MonGameInstance]
+[2018.07.24-09.57.29:731][828]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance_Auto18A9043744F0DF46BFA5BF99446205C3F.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/Autosaves/Game/001Blueprint/Allevels/MonGameInstance_Auto1.uasset'
+[2018.07.24-09.57.29:735][828]LogFileHelpers: Auto-saving content packages took 0.047
+[2018.07.24-09.58.19:848][371]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.58.20:371][417]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance9C23B19D4FB9F1CA271C92AA88EAF3A8.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-09.59.08:571][882]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.24-09.59.55:460][422]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-09.59.56:021][467]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstanceD202FA154AECB00A15F0DFBEBA542805.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-10.00.25:029][ 28]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-10.00.25:532][ 65]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstanceD1E6CFAA4C6B10BE2BE44C90BF7B300E.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-10.00.58:155][161]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-10.00.58:669][199]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance545F3F9E4276BCCA5BF5DA8C3D530F94.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-10.01.17:525][207]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.24-10.01.21:071][622]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-10.01.21:597][659]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance8F1693CB4E461E9061F39686A59B781A.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-10.01.36:078][963]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.24-10.01.59:089][287]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-10.01.59:605][324]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance7C1252DB43C2F0EAAAF3F290C45B35B8.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-10.03.11:701][  5]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-10.03.12:175][ 35]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstanceDC65114442742ED712116FB3D3DF3B5F.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-10.03.32:815][309]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.24-10.06.18:579][723]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-10.06.19:059][760]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstanceF254581A4469A87D6E4FC3B1468A4BBA.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-10.06.28:247][191]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-10.06.28:772][234]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance85E9883A47F4ACC8971D95A93C40B87C.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-10.07.32:483][925]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-10.07.33:085][970]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstanceA1D29C4F4B971CCD63DC0BAF19D34969.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-10.08.05:517][375]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.24-10.08.10:209][778]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-10.08.10:757][814]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance8ADED35A49C6ECA75A5F688012E5B88E.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-10.08.38:710][322]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-10.08.39:199][352]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance0CCE749044525503F69D62B789F11547.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-10.08.52:240][778]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-10.08.52:808][814]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance450AE80C4322D808D46C9FA96E2AC469.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-10.08.58:491][405]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.24-10.09.54:060][951]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-10.09.54:617][988]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance615F7F964039EEA78510B6B4040224B2.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-10.10.24:967][898]LogSlate: Window 'Color Picker' being destroyed
+[2018.07.24-10.10.28:252][291]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-10.10.28:755][319]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstance29E8DA8B43903BEC5FD8D6A08411650E.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-10.10.35:374][479]BlueprintLog: New page: Compile MonGameInstance
+[2018.07.24-10.10.35:942][516]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MonGameInstanceECF490134CE1FC300EFFC88491CED8FB.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/MonGameInstance.uasset'
+[2018.07.24-10.10.41:437][917]LogAssetEditorManager: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2018.07.24-10.11.02:344][346]LogSlate: Window 'MainMenu* - Level Blueprint Editor' being destroyed
+[2018.07.24-10.11.16:235][602]BlueprintLog: New page: Compile MainMenu
+[2018.07.24-10.11.17:333][664]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MainMenuEE8DB843463F8EDE09223CB0E189F0E9.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/MainMenu.umap'
+[2018.07.24-10.11.17:358][664]LogFileHelpers: Saving map 'MainMenu' took 0.467
+[2018.07.24-10.11.19:231][859]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/MainMenuCC07C0404C249B8BBDB51DA964D55928.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/MainMenu.umap'
+[2018.07.24-10.12.12:724][298]LogAssetEditorManager: Opening Asset editor for UserDefinedStruct /Game/001Blueprint/Allevels/PlayerInfo.PlayerInfo
+[2018.07.24-10.12.55:292][108]LogSlate: Window 'PlayerInfo*' being destroyed
+[2018.07.24-10.13.15:564][251]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/PlayerInfoE3DD8C0845D8D2CCBEC6A29FAEE9BB66.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/PlayerInfo.uasset'
+[2018.07.24-10.14.11:687][960]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/PlayerInfoBCA7F7F64FE5C59DE03C2482F48FD980.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/PlayerInfo.uasset'
+[2018.07.24-10.14.22:567][400]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/001Blueprint/Allevels/PlayerSave.PlayerSave
+[2018.07.24-10.15.04:400][199]LogClass: Warning: Type mismatch in S_PlayerInfos of SKEL_PlayerSave_C - Previous (StructProperty) Current(ArrayProperty) for package:  FObjectReader
+[2018.07.24-10.15.08:737][325]BlueprintLog: New page: Compile PlayerSave
+[2018.07.24-10.15.09:566][416]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/PlayerSaveEA58807943A774DEC816A88714FC7948.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/PlayerSave.uasset'
+[2018.07.24-10.15.24:221][755]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/PlayerSave2765F15A445E0A55693B4F83D215F5E4.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/001Blueprint/Allevels/PlayerSave.uasset'
+[2018.07.24-10.15.32:893][606]LogAIModule: Creating AISystem for world Arena
+[2018.07.24-10.15.32:921][606]LogAssetEditorManager: Opening Asset editor for World /Game/Maps/Arena.Arena
+[2018.07.24-10.15.32:958][606]Cmd: MAP LOAD FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Arena.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.24-10.15.32:959][606]LightingResults: New page: Lighting Build
+[2018.07.24-10.15.32:959][606]LoadErrors: New page: Loading map: Arena.umap
+[2018.07.24-10.15.32:961][606]MapCheck: New page: Map Check
+[2018.07.24-10.15.32:961][606]LightingResults: New page: Lighting Build
+[2018.07.24-10.15.33:104][606]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.24-10.15.33:148][606]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.24-10.15.33:356][606]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 206,98ms to complete.
+[2018.07.24-10.15.33:358][606]LogFileHelpers: Loading map 'Arena' took 0.401
+[2018.07.24-10.15.34:766][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-10.15.34:874][783]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.24-10.15.34:895][783]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Maps/Arena.Arena_C' with ClassGeneratedBy '/Game/Maps/Arena.Arena:PersistentLevel.Arena'
+[2018.07.24-10.15.34:896][783]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.24-10.15.34:896][783]PIE: New page: PIE session: Arena (24 juil. 2018 14:15:34)
+[2018.07.24-10.15.34:896][783]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_Arena
+[2018.07.24-10.15.34:925][783]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029161s)
+[2018.07.24-10.15.34:927][783]LogAIModule: Creating AISystem for world Arena
+[2018.07.24-10.15.34:927][783]LogPlayLevel: PIE: World Init took: (0.001642s)
+[2018.07.24-10.15.34:927][783]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/Arena.Arena to /Game/Maps/UEDPIE_0_Arena.Arena (0.030989s)
+[2018.07.24-10.15.34:966][783]LogInit: XAudio2 using 'Speakers / Headphones (3- Plantronics HD1)' : 6 channels at 48 kHz using 24 bits per sample (channel mask 0x3f)
+[2018.07.24-10.15.34:985][783]LogInit: FAudioDevice initialized.
+[2018.07.24-10.15.35:015][783]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2018.07.24-10.15.35:018][783]LogWorld: Bringing World /Game/Maps/UEDPIE_0_Arena.Arena up for play (max tick rate 0) at 2018.07.24-12.15.35
+[2018.07.24-10.15.35:033][783]LogWorld: Bringing up level for play took: 0.016602
+[2018.07.24-10.15.35:097][783]PIE: Play in editor start time for /Game/Maps/UEDPIE_0_Arena 0,871
+[2018.07.24-10.15.35:097][783]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Maps/Arena.Arena_C' with ClassGeneratedBy '/Game/Maps/Arena.Arena:PersistentLevel.Arena'
+[2018.07.24-10.15.37:183][ 27]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Maps/Arena.Arena_C' with ClassGeneratedBy '/Game/Maps/Arena.Arena:PersistentLevel.Arena'
+[2018.07.24-10.15.37:184][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.24-10.15.37:222][ 27]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2018.07.24-10.15.37:222][ 27]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/Arena.Arena:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/Arena.Arena:PersistentLevel.Arena' with GeneratedClass '/Game/Maps/Arena.Arena_C' with ClassGeneratedBy '/Game/Maps/Arena.Arena:PersistentLevel.Arena'
+[2018.07.24-10.15.37:253][ 27]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2018.07.24-10.15.37:293][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2018.07.24-10.15.42:470][258]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.24-10.15.46:617][710]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2018.07.24-10.16.02:632][582]LogSlate: Window 'Save Content' being destroyed
+[2018.07.24-10.16.02:783][582]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/Arena" FILE="../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Arena.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.24-10.16.03:021][582]LogSavePackage: Moving '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Saved/ArenaBFB1B9B741743AD9BAD72BB34F2154B1.tmp' to '../../../../../../Users/dwira/OneDrive/Documents/Unreal Projects/TestMultiSteam/Content/Maps/Arena.umap'
+[2018.07.24-10.16.03:044][582]LogFileHelpers: Saving map 'Arena' took 0.395
+[2018.07.24-10.16.03:158][582]LogSlate: Window 'TestMultiSteam - Unreal Editor' being destroyed
+[2018.07.24-10.16.03:544][583]Cmd: QUIT_EDITOR
+[2018.07.24-10.16.04:664][583]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.24-10.16.04:741][583]LogExit: Preparing to exit.
+[2018.07.24-10.16.05:755][583]LogExit: Editor shut down
+[2018.07.24-10.16.05:757][583]LogExit: Transaction tracking system shut down
+[2018.07.24-10.16.09:017][583]LogExit: Object subsystem successfully closed.
+[2018.07.24-10.16.09:281][583]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.07.24-10.16.09:315][583]LogD3D11RHI: Shutdown
+[2018.07.24-10.16.09:315][583]LogD3D11RHI: CleanupD3DDevice
+[2018.07.24-10.16.09:405][583]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.07.24-10.16.16:609][583]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (626)
+[2018.07.24-10.16.16:609][583]LogModuleManager: Shutting down and abandoning module Voice (624)
+[2018.07.24-10.16.16:619][583]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (622)
+[2018.07.24-10.16.16:619][583]LogModuleManager: Shutting down and abandoning module SequencerWidgets (620)
+[2018.07.24-10.16.16:619][583]LogModuleManager: Shutting down and abandoning module NewLevelDialog (618)
+[2018.07.24-10.16.16:619][583]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (616)
+[2018.07.24-10.16.16:636][583]LogModuleManager: Shutting down and abandoning module BlueprintGraph (614)
+[2018.07.24-10.16.16:636][583]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (612)
+[2018.07.24-10.16.16:662][583]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (610)
+[2018.07.24-10.16.16:695][583]LogModuleManager: Shutting down and abandoning module SceneOutliner (608)
+[2018.07.24-10.16.16:695][583]LogModuleManager: Shutting down and abandoning module AddContentDialog (606)
+[2018.07.24-10.16.16:749][583]LogModuleManager: Shutting down and abandoning module WidgetCarousel (605)
+[2018.07.24-10.16.16:749][583]LogModuleManager: Shutting down and abandoning module EditorWidgets (602)
+[2018.07.24-10.16.16:749][583]LogModuleManager: Shutting down and abandoning module CollectionManager (600)
+[2018.07.24-10.16.16:827][583]LogModuleManager: Shutting down and abandoning module StatsViewer (598)
+[2018.07.24-10.16.16:887][583]LogModuleManager: Shutting down and abandoning module FoliageEdit (596)
+[2018.07.24-10.16.16:935][583]LogModuleManager: Shutting down and abandoning module LandscapeEditor (594)
+[2018.07.24-10.16.17:046][583]LogModuleManager: Shutting down and abandoning module MeshPaintMode (592)
+[2018.07.24-10.16.17:056][583]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (590)
+[2018.07.24-10.16.17:056][583]LogModuleManager: Shutting down and abandoning module ActorPickerMode (588)
+[2018.07.24-10.16.17:056][583]LogModuleManager: Shutting down and abandoning module GeometryMode (586)
+[2018.07.24-10.16.17:056][583]LogModuleManager: Shutting down and abandoning module TextureAlignMode (584)
+[2018.07.24-10.16.17:056][583]LogModuleManager: Shutting down and abandoning module BspMode (582)
+[2018.07.24-10.16.17:060][583]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (580)
+[2018.07.24-10.16.17:092][583]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (578)
+[2018.07.24-10.16.17:106][583]LogModuleManager: Shutting down and abandoning module AutomationWorker (576)
+[2018.07.24-10.16.17:111][583]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (574)
+[2018.07.24-10.16.17:111][583]LogModuleManager: Shutting down and abandoning module SequenceRecorder (573)
+[2018.07.24-10.16.17:148][583]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (570)
+[2018.07.24-10.16.17:148][583]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (568)
+[2018.07.24-10.16.17:219][583]LogModuleManager: Shutting down and abandoning module PlacementMode (567)
+[2018.07.24-10.16.17:219][583]LogModuleManager: Shutting down and abandoning module MaterialEditor (566)
+[2018.07.24-10.16.17:287][583]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (562)
+[2018.07.24-10.16.17:287][583]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (560)
+[2018.07.24-10.16.17:287][583]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (558)
+[2018.07.24-10.16.17:333][583]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (556)
+[2018.07.24-10.16.17:333][583]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (554)
+[2018.07.24-10.16.17:333][583]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (552)
+[2018.07.24-10.16.17:333][583]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (550)
+[2018.07.24-10.16.17:333][583]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (548)
+[2018.07.24-10.16.17:333][583]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (546)
+[2018.07.24-10.16.17:333][583]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (544)
+[2018.07.24-10.16.17:333][583]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (542)
+[2018.07.24-10.16.17:333][583]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (540)
+[2018.07.24-10.16.17:333][583]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (538)
+[2018.07.24-10.16.17:334][583]LogModuleManager: Shutting down and abandoning module CharacterAI (536)
+[2018.07.24-10.16.17:334][583]LogModuleManager: Shutting down and abandoning module SmartSnapping (534)
+[2018.07.24-10.16.17:334][583]LogModuleManager: Shutting down and abandoning module SessionServices (532)
+[2018.07.24-10.16.17:334][583]LogModuleManager: Shutting down and abandoning module ViewportSnapping (530)
+[2018.07.24-10.16.17:334][583]LogModuleManager: Shutting down and abandoning module ViewportInteraction (528)
+[2018.07.24-10.16.17:334][583]LogModuleManager: Shutting down and abandoning module ClothPainter (526)
+[2018.07.24-10.16.17:367][583]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (525)
+[2018.07.24-10.16.17:402][583]LogModuleManager: Shutting down and abandoning module LogVisualizer (522)
+[2018.07.24-10.16.17:422][583]LogModuleManager: Shutting down and abandoning module IntroTutorials (520)
+[2018.07.24-10.16.17:445][583]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (519)
+[2018.07.24-10.16.17:504][583]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (516)
+[2018.07.24-10.16.17:504][583]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (514)
+[2018.07.24-10.16.17:504][583]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (512)
+[2018.07.24-10.16.17:504][583]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (510)
+[2018.07.24-10.16.17:504][583]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (509)
+[2018.07.24-10.16.18:302][583]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (506)
+[2018.07.24-10.16.18:302][583]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (504)
+[2018.07.24-10.16.18:302][583]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (502)
+[2018.07.24-10.16.18:302][583]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (500)
+[2018.07.24-10.16.18:302][583]LogModuleManager: Shutting down and abandoning module InputBindingEditor (498)
+[2018.07.24-10.16.18:330][583]LogModuleManager: Shutting down and abandoning module MergeActors (496)
+[2018.07.24-10.16.18:351][583]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (494)
+[2018.07.24-10.16.18:376][583]LogModuleManager: Shutting down and abandoning module LocalizationService (493)
+[2018.07.24-10.16.18:381][583]LogModuleManager: Shutting down and abandoning module HardwareTargeting (490)
+[2018.07.24-10.16.18:381][583]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (488)
+[2018.07.24-10.16.18:381][583]LogModuleManager: Shutting down and abandoning module UndoHistory (486)
+[2018.07.24-10.16.18:395][583]LogModuleManager: Shutting down and abandoning module XmlParser (484)
+[2018.07.24-10.16.18:395][583]LogModuleManager: Shutting down and abandoning module Blutility (482)
+[2018.07.24-10.16.18:410][583]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (480)
+[2018.07.24-10.16.18:410][583]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (479)
+[2018.07.24-10.16.18:410][583]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (476)
+[2018.07.24-10.16.18:419][583]LogModuleManager: Shutting down and abandoning module SettingsEditor (474)
+[2018.07.24-10.16.18:447][583]LogModuleManager: Shutting down and abandoning module ProjectLauncher (472)
+[2018.07.24-10.16.18:464][583]LogModuleManager: Shutting down and abandoning module SessionFrontend (470)
+[2018.07.24-10.16.18:477][583]LogModuleManager: Shutting down and abandoning module ProfilerClient (468)
+[2018.07.24-10.16.18:490][583]LogModuleManager: Shutting down and abandoning module DeviceManager (466)
+[2018.07.24-10.16.18:500][583]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (465)
+[2018.07.24-10.16.18:555][583]LogModuleManager: Shutting down and abandoning module AutomationController (462)
+[2018.07.24-10.16.18:562][583]LogModuleManager: Shutting down and abandoning module AutomationWindow (460)
+[2018.07.24-10.16.18:580][583]LogModuleManager: Shutting down and abandoning module Layers (458)
+[2018.07.24-10.16.18:615][583]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (456)
+[2018.07.24-10.16.18:615][583]LogModuleManager: Shutting down and abandoning module DetailCustomizations (454)
+[2018.07.24-10.16.18:623][583]LogModuleManager: Shutting down and abandoning module PackagesDialog (452)
+[2018.07.24-10.16.18:623][583]LogModuleManager: Shutting down and abandoning module Persona (450)
+[2018.07.24-10.16.18:679][583]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (449)
+[2018.07.24-10.16.18:679][583]LogModuleManager: Shutting down and abandoning module AnimGraph (447)
+[2018.07.24-10.16.18:685][583]LogModuleManager: Shutting down and abandoning module Kismet (444)
+[2018.07.24-10.16.18:718][583]LogModuleManager: Shutting down and abandoning module GraphEditor (442)
+[2018.07.24-10.16.18:719][583]LogModuleManager: Shutting down and abandoning module ClassViewer (440)
+[2018.07.24-10.16.18:720][583]LogModuleManager: Shutting down and abandoning module Toolbox (438)
+[2018.07.24-10.16.18:731][583]LogModuleManager: Shutting down and abandoning module ModuleUI (436)
+[2018.07.24-10.16.18:746][583]LogModuleManager: Shutting down and abandoning module MovieSceneTools (434)
+[2018.07.24-10.16.18:771][583]LogModuleManager: Shutting down and abandoning module OutputLog (432)
+[2018.07.24-10.16.18:771][583]LogModuleManager: Shutting down and abandoning module GammaUI (430)
+[2018.07.24-10.16.18:790][583]LogModuleManager: Shutting down and abandoning module Documentation (428)
+[2018.07.24-10.16.18:791][583]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (426)
+[2018.07.24-10.16.18:801][583]LogModuleManager: Shutting down and abandoning module MovieScene (424)
+[2018.07.24-10.16.18:805][583]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (422)
+[2018.07.24-10.16.18:817][583]LogModuleManager: Shutting down and abandoning module LauncherPlatform (420)
+[2018.07.24-10.16.18:817][583]LogModuleManager: Shutting down and abandoning module AnalyticsET (418)
+[2018.07.24-10.16.18:817][583]LogModuleManager: Shutting down and abandoning module PortalServices (416)
+[2018.07.24-10.16.18:817][583]LogModuleManager: Shutting down and abandoning module PortalRpc (414)
+[2018.07.24-10.16.18:817][583]LogModuleManager: Shutting down and abandoning module MessagingRpc (412)
+[2018.07.24-10.16.18:817][583]LogModuleManager: Shutting down and abandoning module AIModule (410)
+[2018.07.24-10.16.18:832][583]LogModuleManager: Shutting down and abandoning module GameplayDebugger (409)
+[2018.07.24-10.16.18:842][583]LogModuleManager: Shutting down and abandoning module AITestSuite (407)
+[2018.07.24-10.16.18:847][583]LogModuleManager: Shutting down and abandoning module NavigationSystem (405)
+[2018.07.24-10.16.18:847][583]LogModuleManager: Shutting down and abandoning module DesktopPlatform (402)
+[2018.07.24-10.16.18:847][583]LogModuleManager: Shutting down and abandoning module ProfilerService (400)
+[2018.07.24-10.16.18:908][583]LogModuleManager: Shutting down and abandoning module TaskGraph (398)
+[2018.07.24-10.16.18:947][583]LogModuleManager: Shutting down and abandoning module SteamVRController (396)
+[2018.07.24-10.16.18:947][583]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (394)
+[2018.07.24-10.16.18:947][583]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (392)
+[2018.07.24-10.16.18:959][583]LogModuleManager: Shutting down and abandoning module OculusInput (390)
+[2018.07.24-10.16.18:959][583]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (388)
+[2018.07.24-10.16.18:959][583]LogModuleManager: Shutting down and abandoning module EditableMesh (386)
+[2018.07.24-10.16.18:973][583]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (384)
+[2018.07.24-10.16.18:973][583]LogModuleManager: Shutting down and abandoning module CableComponent (382)
+[2018.07.24-10.16.18:973][583]LogModuleManager: Shutting down and abandoning module AudioCapture (380)
+[2018.07.24-10.16.18:973][583]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (378)
+[2018.07.24-10.16.18:973][583]LogModuleManager: Shutting down and abandoning module AndroidPermission (376)
+[2018.07.24-10.16.18:973][583]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (374)
+[2018.07.24-10.16.18:973][583]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (372)
+[2018.07.24-10.16.18:999][583]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (370)
+[2018.07.24-10.16.18:999][583]LogModuleManager: Shutting down and abandoning module MediaCompositing (368)
+[2018.07.24-10.16.18:999][583]LogModuleManager: Shutting down and abandoning module LinearTimecode (366)
+[2018.07.24-10.16.18:999][583]LogModuleManager: Shutting down and abandoning module ImgMedia (364)
+[2018.07.24-10.16.19:010][583]LogModuleManager: Shutting down and abandoning module HTML5Networking (362)
+[2018.07.24-10.16.19:010][583]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (360)
+[2018.07.24-10.16.19:010][583]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (358)
+[2018.07.24-10.16.19:010][583]LogModuleManager: Shutting down and abandoning module BackChannel (356)
+[2018.07.24-10.16.19:038][583]LogModuleManager: Shutting down and abandoning module AppleVision (354)
+[2018.07.24-10.16.19:038][583]LogModuleManager: Shutting down and abandoning module AppleImageUtils (352)
+[2018.07.24-10.16.19:039][583]LogModuleManager: Shutting down and abandoning module AlembicImporter (350)
+[2018.07.24-10.16.19:039][583]LogModuleManager: Shutting down and abandoning module AlembicLibrary (349)
+[2018.07.24-10.16.19:039][583]LogModuleManager: Shutting down and abandoning module GeometryCache (348)
+[2018.07.24-10.16.19:039][583]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (347)
+[2018.07.24-10.16.19:039][583]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (342)
+[2018.07.24-10.16.19:046][583]LogModuleManager: Shutting down and abandoning module DatasmithContent (340)
+[2018.07.24-10.16.19:064][583]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (338)
+[2018.07.24-10.16.19:064][583]LogModuleManager: Shutting down and abandoning module PluginBrowser (336)
+[2018.07.24-10.16.19:081][583]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (334)
+[2018.07.24-10.16.19:090][583]LogModuleManager: Shutting down and abandoning module PolygonModeling (332)
+[2018.07.24-10.16.19:091][583]LogModuleManager: Shutting down and abandoning module MeshEditor (330)
+[2018.07.24-10.16.19:102][583]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (328)
+[2018.07.24-10.16.19:114][583]LogModuleManager: Shutting down and abandoning module CryptoKeys (326)
+[2018.07.24-10.16.19:114][583]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (324)
+[2018.07.24-10.16.19:114][583]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (322)
+[2018.07.24-10.16.19:114][583]LogModuleManager: Shutting down and abandoning module UObjectPlugin (320)
+[2018.07.24-10.16.19:114][583]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (318)
+[2018.07.24-10.16.19:139][583]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (316)
+[2018.07.24-10.16.19:171][583]LogModuleManager: Shutting down and abandoning module GitSourceControl (314)
+[2018.07.24-10.16.19:192][583]LogModuleManager: Shutting down and abandoning module SourceControl (313)
+[2018.07.24-10.16.19:216][583]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (310)
+[2018.07.24-10.16.19:216][583]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (308)
+[2018.07.24-10.16.19:216][583]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (306)
+[2018.07.24-10.16.19:216][583]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (304)
+[2018.07.24-10.16.19:228][583]LogModuleManager: Shutting down and abandoning module Paper2DEditor (302)
+[2018.07.24-10.16.19:278][583]LogModuleManager: Shutting down and abandoning module MeshPaint (301)
+[2018.07.24-10.16.19:295][583]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (298)
+[2018.07.24-10.16.19:295][583]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (296)
+[2018.07.24-10.16.19:309][583]LogModuleManager: Shutting down and abandoning module PhysXVehicles (294)
+[2018.07.24-10.16.19:309][583]LogModuleManager: Shutting down and abandoning module OculusEditor (292)
+[2018.07.24-10.16.19:320][583]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (290)
+[2018.07.24-10.16.19:320][583]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (288)
+[2018.07.24-10.16.19:320][583]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (286)
+[2018.07.24-10.16.19:340][583]LogModuleManager: Shutting down and abandoning module ActorSequence (284)
+[2018.07.24-10.16.19:340][583]LogModuleManager: Shutting down and abandoning module UdpMessaging (282)
+[2018.07.24-10.16.19:441][583]LogModuleManager: Shutting down and abandoning module TcpMessaging (280)
+[2018.07.24-10.16.19:589][583]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (278)
+[2018.07.24-10.16.19:589][583]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (276)
+[2018.07.24-10.16.19:631][583]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (274)
+[2018.07.24-10.16.19:631][583]LogModuleManager: Shutting down and abandoning module FacialAnimation (272)
+[2018.07.24-10.16.19:631][583]LogModuleManager: Shutting down and abandoning module DataValidation (270)
+[2018.07.24-10.16.19:631][583]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (268)
+[2018.07.24-10.16.19:735][583]LogModuleManager: Shutting down and abandoning module LevelEditor (267)
+[2018.07.24-10.16.19:799][583]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (266)
+[2018.07.24-10.16.19:829][583]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (264)
+[2018.07.24-10.16.19:829][583]LogModuleManager: Shutting down and abandoning module MainFrame (262)
+[2018.07.24-10.16.19:864][583]LogModuleManager: Shutting down and abandoning module HotReload (261)
+[2018.07.24-10.16.19:921][583]LogModuleManager: Shutting down and abandoning module ContentBrowser (257)
+[2018.07.24-10.16.19:923][583]LogModuleManager: Shutting down and abandoning module TreeMap (255)
+[2018.07.24-10.16.19:933][583]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2018.07.24-10.16.19:933][583]LogModuleManager: Shutting down and abandoning module AISupportModule (250)
+[2018.07.24-10.16.19:933][583]LogModuleManager: Shutting down and abandoning module Paper2D (248)
+[2018.07.24-10.16.19:952][583]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (246)
+[2018.07.24-10.16.19:970][583]LogModuleManager: Shutting down and abandoning module WmfMedia (244)
+[2018.07.24-10.16.19:985][583]LogModuleManager: Shutting down and abandoning module Media (243)
+[2018.07.24-10.16.19:991][583]LogModuleManager: Shutting down and abandoning module PacketHandler (240)
+[2018.07.24-10.16.19:992][583]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (238)
+[2018.07.24-10.16.19:992][583]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (236)
+[2018.07.24-10.16.20:028][583]LogModuleManager: Shutting down and abandoning module MediaAssets (234)
+[2018.07.24-10.16.20:047][583]LogModuleManager: Shutting down and abandoning module Overlay (232)
+[2018.07.24-10.16.20:047][583]LogModuleManager: Shutting down and abandoning module OverlayEditor (231)
+[2018.07.24-10.16.20:047][583]LogModuleManager: Shutting down and abandoning module VREditor (228)
+[2018.07.24-10.16.20:072][583]LogModuleManager: Shutting down and abandoning module StringTableEditor (226)
+[2018.07.24-10.16.20:100][583]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (224)
+[2018.07.24-10.16.20:100][583]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (222)
+[2018.07.24-10.16.20:137][583]LogModuleManager: Shutting down and abandoning module FunctionalTesting (220)
+[2018.07.24-10.16.20:153][583]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (218)
+[2018.07.24-10.16.20:173][583]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (217)
+[2018.07.24-10.16.20:173][583]LogModuleManager: Shutting down and abandoning module UMG (214)
+[2018.07.24-10.16.20:184][583]LogModuleManager: Shutting down and abandoning module UMGEditor (213)
+[2018.07.24-10.16.20:185][583]LogModuleManager: Shutting down and abandoning module Sequencer (212)
+[2018.07.24-10.16.20:207][583]LogModuleManager: Shutting down and abandoning module MessageLog (209)
+[2018.07.24-10.16.20:207][583]LogModuleManager: Shutting down and abandoning module SlateReflector (204)
+[2018.07.24-10.16.20:234][583]LogModuleManager: Shutting down and abandoning module Slate (202)
+[2018.07.24-10.16.20:234][583]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2018.07.24-10.16.20:268][583]LogModuleManager: Shutting down and abandoning module MRMesh (198)
+[2018.07.24-10.16.20:277][583]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (196)
+[2018.07.24-10.16.20:277][583]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (194)
+[2018.07.24-10.16.20:277][583]LogModuleManager: Shutting down and abandoning module XAudio2 (192)
+[2018.07.24-10.16.20:277][583]LogModuleManager: Shutting down and abandoning module Networking (190)
+[2018.07.24-10.16.20:277][583]LogModuleManager: Shutting down and abandoning module Core (188)
+[2018.07.24-10.16.20:277][583]LogModuleManager: Shutting down and abandoning module LevelSequence (186)
+[2018.07.24-10.16.20:277][583]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2018.07.24-10.16.20:277][583]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2018.07.24-10.16.20:313][583]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2018.07.24-10.16.20:327][583]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2018.07.24-10.16.20:327][583]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (179)
+[2018.07.24-10.16.20:335][583]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2018.07.24-10.16.20:352][583]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (175)
+[2018.07.24-10.16.20:369][583]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (173)
+[2018.07.24-10.16.20:391][583]LogModuleManager: Shutting down and abandoning module MaterialBaking (169)
+[2018.07.24-10.16.20:407][583]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (165)
+[2018.07.24-10.16.20:410][583]LogModuleManager: Shutting down and abandoning module DerivedDataCache (162)
+[2018.07.24-10.16.20:470][583]LogDerivedDataCache: Shutdown
+[2018.07.24-10.16.20:470][583]LogModuleManager: Shutting down and abandoning module XGEController (160)
+[2018.07.24-10.16.20:488][583]LogModuleManager: Shutting down and abandoning module TargetPlatform (158)
+[2018.07.24-10.16.20:488][583]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (157)
+[2018.07.24-10.16.20:507][583]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (155)
+[2018.07.24-10.16.20:524][583]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (153)
+[2018.07.24-10.16.20:541][583]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (151)
+[2018.07.24-10.16.20:541][583]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (149)
+[2018.07.24-10.16.20:562][583]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (147)
+[2018.07.24-10.16.20:562][583]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (145)
+[2018.07.24-10.16.20:562][583]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (143)
+[2018.07.24-10.16.20:577][583]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (141)
+[2018.07.24-10.16.20:588][583]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (139)
+[2018.07.24-10.16.20:588][583]LogModuleManager: Shutting down and abandoning module ImageWrapper (138)
+[2018.07.24-10.16.20:588][583]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (135)
+[2018.07.24-10.16.20:597][583]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (133)
+[2018.07.24-10.16.20:597][583]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (131)
+[2018.07.24-10.16.20:597][583]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (129)
+[2018.07.24-10.16.20:597][583]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (127)
+[2018.07.24-10.16.20:597][583]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (125)
+[2018.07.24-10.16.20:598][583]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (123)
+[2018.07.24-10.16.20:598][583]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (121)
+[2018.07.24-10.16.20:609][583]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (119)
+[2018.07.24-10.16.20:612][583]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (117)
+[2018.07.24-10.16.20:617][583]LogModuleManager: Shutting down and abandoning module Messaging (115)
+[2018.07.24-10.16.20:617][583]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (113)
+[2018.07.24-10.16.20:621][583]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (111)
+[2018.07.24-10.16.20:621][583]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (109)
+[2018.07.24-10.16.20:663][583]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (107)
+[2018.07.24-10.16.20:663][583]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (105)
+[2018.07.24-10.16.20:663][583]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (103)
+[2018.07.24-10.16.20:664][583]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (101)
+[2018.07.24-10.16.20:664][583]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (99)
+[2018.07.24-10.16.20:664][583]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (97)
+[2018.07.24-10.16.20:664][583]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (95)
+[2018.07.24-10.16.20:664][583]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (93)
+[2018.07.24-10.16.20:664][583]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (91)
+[2018.07.24-10.16.20:664][583]LogModuleManager: Shutting down and abandoning module InputCore (88)
+[2018.07.24-10.16.20:664][583]LogModuleManager: Shutting down and abandoning module Settings (86)
+[2018.07.24-10.16.20:664][583]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2018.07.24-10.16.20:664][583]LogModuleManager: Shutting down and abandoning module SteamVR (82)
+[2018.07.24-10.16.20:685][583]LogModuleManager: Shutting down and abandoning module OculusHMD (80)
+[2018.07.24-10.16.20:711][583]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (78)
+[2018.07.24-10.16.20:711][583]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (76)
+[2018.07.24-10.16.20:711][583]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (74)
+[2018.07.24-10.16.20:711][583]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (70)
+[2018.07.24-10.16.20:725][583]LogModuleManager: Shutting down and abandoning module XMPP (65)
+[2018.07.24-10.16.20:749][583]LogModuleManager: Shutting down and abandoning module WebSockets (64)
+[2018.07.24-10.16.20:840][583]LogModuleManager: Shutting down and abandoning module HTTP (61)
+[2018.07.24-10.16.20:854][583]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.07.24-10.16.20:854][583]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B28EA567E-4903-D3CE-E841-23803879CCA5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.20.0-4212847%2B%2B%2BUE4%2BRelease-4.20&UserID=26d2b0d245917275fa36f697ff4be651%7C918d832798bc43d0ab24ba8022290a75%7C15dbf383-54a8-4ff2-9ace-4c020e7c7a4a&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.07.24-10.16.20:868][583]LogModuleManager: Shutting down and abandoning module SSL (60)
+[2018.07.24-10.16.20:895][583]LogModuleManager: Shutting down and abandoning module MagicLeapEmulator (56)
+[2018.07.24-10.16.20:895][583]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (54)
+[2018.07.24-10.16.20:895][583]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (52)
+[2018.07.24-10.16.20:895][583]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (50)
+[2018.07.24-10.16.20:895][583]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (48)
+[2018.07.24-10.16.20:895][583]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (46)
+[2018.07.24-10.16.20:895][583]LogModuleManager: Shutting down and abandoning module MagicLeapGestures (44)
+[2018.07.24-10.16.20:895][583]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (42)
+[2018.07.24-10.16.20:895][583]LogModuleManager: Shutting down and abandoning module MagicLeapController (40)
+[2018.07.24-10.16.20:895][583]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.07.24-10.16.20:896][583]LogModuleManager: Shutting down and abandoning module MagicLeap (38)
+[2018.07.24-10.16.20:913][583]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.07.24-10.16.20:958][583]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.07.24-10.16.20:970][583]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.07.24-10.16.20:994][583]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.07.24-10.16.21:023][583]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.07.24-10.16.21:023][583]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.07.24-10.16.21:023][583]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.07.24-10.16.21:051][583]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.07.24-10.16.21:062][583]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.07.24-10.16.21:062][583]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.07.24-10.16.21:081][583]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.07.24-10.16.21:081][583]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.07.24-10.16.21:081][583]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.07.24-10.16.21:081][583]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.07.24-10.16.21:097][583]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.07.24-10.16.21:097][583]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.07.24-10.16.21:110][583]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.07.24-10.16.21:110][583]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.07.24-10.16.21:145][583]LogExit: Exiting.
+[2018.07.24-10.16.21:191][583]Log file closed, 07/24/18 12:16:21
